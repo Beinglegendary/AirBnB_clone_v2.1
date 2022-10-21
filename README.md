@@ -155,7 +155,8 @@ No known bugs at this time.
 
 ## Authors
 UWABOR COLLINS - [Github](https://github.com/Beinglegendary) / [Twitter](https://twitter.com/codewithuwabor)
- Boluwatife Adetayo - [Github](https://github.com/Bhbee) / [Twitter](https://twitter.com/Bhbee_)
+
+Boluwatife Adetayo - [Github](https://github.com/Bhbee) / [Twitter](https://twitter.com/Bhbee_)
 
 
 Second part of Airbnb: UWABOR COLLINS 
