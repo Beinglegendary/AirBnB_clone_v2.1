@@ -91,7 +91,7 @@ class TestBmFsInstances(unittest.TestCase):
         cls.bm_obj.save()
         cls.state_obj.save()
 
-    def tearDownClass():
+def tearDownClass():
         """tidies up the tests removing storage objects"""
         storage.delete_all()
         remove(F)

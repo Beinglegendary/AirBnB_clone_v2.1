@@ -101,7 +101,7 @@ class TestTracebackNullError(unittest.TestCase):
         self.assertTrue('a child row: a foreign key constraint fails'
                         in str(context.exception))
 
-    def test_place_no_user(self):
+def test_place_no_user(self):
         """... checks to create a place with no city"""
         with self.assertRaises(Exception) as context:
             p = Place()

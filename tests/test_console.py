@@ -542,7 +542,7 @@ class TestHBNBcmdCount(unittest.TestCase):
         actual = std_out.getvalue()
         self.assertEqual(expected, actual)
 
-    def test_count_state(self):
+def test_count_state(self):
         """... tests .count() method for State Class"""
         with redirect_streams() as (std_out, std_err):
             self.CLI.do_State('.count()')
